@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(255, 243, 255);
+}
+
+.travel_mainDiv {
+    border: 1px solid purple;
+    border-radius: 15px;
+}
+
+.travel_mainDiv img {
+    width: 600px;
+    border-radius: 10%;
+}
+
+kbd {
+    color: rgb(254, 160, 254);
+    font-size: 20px;
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p {
+    margin: 20px;
+}
+
+
+h2 {
+    color: rgb(128, 0, 13);
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(156, 70, 237);
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: rgb(27, 179, 234);
+}
